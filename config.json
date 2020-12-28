@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:root@localhost/codingtycoon",
+        "prod_uri": "mysql://root:root@localhost/codingtycoon",
+        "fb_url": "https://facebook.com/thecodingtycoon",
+        "tw_url": "https://twitter.com/thecodingtycoon",
+        "gh_url": "https://github.com/thecodingtycoon",
+        "blog_name": "CodingTycoon",
+        "tag_line": "A Blog liked by 'PROGRAMERS'",
+        "gmail_user": "ket.hrith@gmail.com",
+        "gmail_password": "Keith@0204$$",
+        "about_text": "Hey, my name is Hrithik and I'm learning Flask micro framework.",
+        "no_of_posts": 2,
+        "login_image": "logo.svg",
+        "admin_user": "Keith",
+        "admin_password": "Keith@1234",
+        "upload_location": "C:\\Users\\adri2\\OneDrive\\Desktop\\OneDrive\\Desktop\\Python Flask\\static"
+
+    }
+}
